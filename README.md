@@ -16,6 +16,7 @@
 
 
 ## Flowchart
+![Flowchart Postest 1-Page-2 drawio](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/d6134757-de47-40e5-b9df-ab9f64896e8e)
 
 
 ## Setup/Installation Requirements
