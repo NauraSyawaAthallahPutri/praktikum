@@ -41,4 +41,5 @@ Jika sudah selesai, program akan menampilkan hasil akhir dari bangun ruang yang 
 ![Postest 1 py - Visual Studio Code 9_26_2023 2_41_36 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/c3344d4a-4d78-4dfa-8b91-10cd44b15045)
 
 
-Copyright (c) _date_ _author name(s)_
+
+Copyright (c) _Naura Syawal_
