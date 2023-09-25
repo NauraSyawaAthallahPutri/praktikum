@@ -32,6 +32,11 @@ Jika sudah selesai, program akan menampilkan hasil akhir dari bangun ruang yang 
 ![Postest 1 py - Visual Studio Code 9_26_2023 2_32_41 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/e3c5a7d7-8736-4ee6-b7e3-d111ff756392)
 #### Apabila pilihan yang dimasukkan bukan angka dan berada di luar interval 1-3
 ![Postest 1 py - Visual Studio Code 9_26_2023 2_32_58 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/3c5de24f-ff3f-4ab1-8642-9df923d45b49)
+#### Contoh dari perhitungan volume bangun ruang
+* Bola:
+![Postest 1 py - Visual Studio Code 9_26_2023 2_39_56 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/9b7ad6f1-8a19-4be0-81fa-955ef9138c41)
+* Limas Segitiga:
+![Postest 1 py - Visual Studio Code 9_26_2023 2_41_36 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/c3344d4a-4d78-4dfa-8b91-10cd44b15045)
 
 
 Copyright (c) _date_ _author name(s)_
