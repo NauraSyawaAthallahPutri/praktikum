@@ -27,6 +27,11 @@ Jika sudah selesai, program akan menampilkan hasil akhir dari bangun ruang yang 
 
 ## Ouput  
 #### Apabila NIM dan PIN yang diinput bukan angka
+![Postest 1 py - Visual Studio Code 9_26_2023 2_30_47 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/b2e420b4-2b6b-4e15-ae05-791f671eed63)
+#### Apabila berhasil memasukkan PIN dan NIM
+![Postest 1 py - Visual Studio Code 9_26_2023 2_32_41 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/e3c5a7d7-8736-4ee6-b7e3-d111ff756392)
+#### Apabila pilihan yang dimasukkan bukan angka dan berada di luar interval 1-3
+![Postest 1 py - Visual Studio Code 9_26_2023 2_32_58 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/3c5de24f-ff3f-4ab1-8642-9df923d45b49)
 
 
 Copyright (c) _date_ _author name(s)_
