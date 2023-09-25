@@ -35,6 +35,8 @@ Jika sudah selesai, program akan menampilkan hasil akhir dari bangun ruang yang 
 #### Contoh dari perhitungan volume bangun ruang
 * Bola:
 ![Postest 1 py - Visual Studio Code 9_26_2023 2_39_56 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/9b7ad6f1-8a19-4be0-81fa-955ef9138c41)
+* Tabung:
+
 * Limas Segitiga:
 ![Postest 1 py - Visual Studio Code 9_26_2023 2_41_36 AM](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/c3344d4a-4d78-4dfa-8b91-10cd44b15045)
 
