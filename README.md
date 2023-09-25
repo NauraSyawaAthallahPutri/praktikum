@@ -1,21 +1,17 @@
-# praktikum
-# _{Application Name}_
-
-#### By _**{List of contributors}**_
-
-#### _{Brief description of application}_
+# Kalkulator Bangun Ruang
+#### By Naura Syawal Athallah Putri 
+#### NIM: 2390116032
 
 ## Technologies Used
+* Python
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
-
-## Description
-
+## Deskripsi
+#### Sebuah kalkulator bangun ruang sederana yang memungkinkan penggunanya untuk menghitung volume bola, tabung, dan limas segitiga. Pengguna dapat menginput bilangan apapun (dalam satuan m) yang mereka inginkan, yang kemudian akan dihitung hasilnya oleh kalkulator ini
 
 ## Flowchart
+#### Page1
+![Flowchart Postest 1-Page-1 drawio (1)](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/90476720-153d-4deb-bd03-a862bd9ed6d0)
+#### Page 2
 ![Flowchart Postest 1-Page-2 drawio](https://github.com/NauraSyawaAthallahPutri/praktikum/assets/144810430/d6134757-de47-40e5-b9df-ab9f64896e8e)
 
 
